@@ -1,1 +1,3 @@
-# VisualProgramHelper
+# 可视化编程辅助
+这是一个全屏窗口，不过会在左边实时显示鼠标坐标。
+`setBounds`党福利
